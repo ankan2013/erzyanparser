@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='uniparser-grammar-erzya',
+    name='erzyanparser',
     version='1.0',
     packages=find_packages(),
     url='',
