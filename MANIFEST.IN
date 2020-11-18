@@ -1,4 +1,4 @@
-include uniparser-grammar-erzya/analyzer/bad_analyses.txt
-include uniparser-grammar-erzya/analyzer/paradigms.txt
-include uniparser-grammar-erzya/analyzer/lexemes.txt
-include uniparser-grammar-erzya/analyzer/lex_rules.txt
+include erzyanparser/analyzer/bad_analyses.txt
+include erzyanparser/analyzer/paradigms.txt
+include erzyanparser/analyzer/lexemes.txt
+include erzyanparser/analyzer/lex_rules.txt
